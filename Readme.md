@@ -1,7 +1,9 @@
 # Interactive Programming in Python
 
 ## About the course
-The repository holds mini projects in the course called An Introduction to Interactive Programming in Python. This is an online course delivered by Rice University. I finished it on August 29, 2015. You can check [my certificate](https://www.coursera.org/account/accomplishments/records/kctz6QXtwxBFLvez).
+The repository holds mini projects in the course called An Introduction to Interactive Programming in Python. This is an online course delivered by Rice University. I finished it on August 29, 2015. 
+
+You can check [my certificate](https://www.coursera.org/account/accomplishments/records/kctz6QXtwxBFLvez).
 
 ## About the mini projects
 There are four mini games.
